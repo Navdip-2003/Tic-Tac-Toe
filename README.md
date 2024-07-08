@@ -1,6 +1,5 @@
 # Tic-Tac-Toe Game
 
-https://tictactoe-navdip.netlify.app/
 This is a simple Tic-Tac-Toe game built with React. The game allows two players to play against each other, taking turns to place their marks (X or O) on a 3x3 grid. The game ends when one player gets three of their marks in a row (horizontally, vertically, or diagonally) or when the grid is full without any player winning (a draw).
 
 ## Features
@@ -29,9 +28,3 @@ Alternatively, you can run the game locally:
 4. Open your browser and navigate to:
      ```bash
     http://localhost:3000
-
-     
-
-
-
-
